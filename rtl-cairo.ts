@@ -1,6 +1,6 @@
 import { editor } from "@silverbulletmd/silverbullet/syscalls";
 
-// جلب خط كايرو مرة واحدة فقط
+// جلب خط كايرو مرة واحدة فقط....
 function loadCairoFont() {
   if (!document.getElementById("cairo-font-link")) {
     const link = document.createElement("link");
