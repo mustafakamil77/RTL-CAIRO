@@ -1,7 +1,2 @@
-name: rtl-cairo
-functions:
-  enableRTL:
-    path: rtl-cairo.ts:enableRTL
-    command:
-      name: "الكتابة RTL بخط Cairo"
-      description: "يُفعّل الكتابة من اليمين إلى اليسار بخط Cairo"
+name: RTL-cairo
+main: rtl-cairo.ts
